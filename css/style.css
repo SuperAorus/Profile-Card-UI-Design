@@ -17,7 +17,6 @@ body {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
-
 }
 
 @keyframes gradient {
@@ -36,7 +35,6 @@ h1 {
     font-size: 3rem;
     font-weight: bold;
 }
-
  
 @media (max-width: 767px) { 
     .profile-card {
@@ -69,15 +67,11 @@ h1 {
     }
 }
 
-
 .profile-card__desc {
     text-align: center;
     display: flex;
     flex-direction: column;
 }
-
-
-
 
 .profile-card__info {
     display: flex;
